@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> SELINA HAYAT </title>
+  <link rel="stylesheet" href="css/stylesheet.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://use.fontawesome.com/97c869a348.js"></script>
+  <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+</head>
+<body>
+
+<br>
+
+<h1>SELINA HAYAT </h1>
+<br>
+
+
+  <!-- START OF NAVIGATION BAR -->
+<nav class="topnav" id="myTopnav">
+  <a href="javascript:void(0);" style="font-size:17px; " class="icon" onclick="myFunction()">&#9776;</a>
+  <a href="index.html" class="active"> Home </a>
+  <a href="contact.html">Profile</a>
+  
+</nav>
+  <script src="js/nav.js"></script>
+  <!-- END OF NAVIGATION BAR -->
+<main>
+   <div id="map"></div>
+          <script>       function initMap() {
+        var uluru = {lat: 52.630155, lng: -1.139180};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 15,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+	
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDW4kCUxGvc2Zum0XxTf2cjeJa0AKyDqdw&callback=initMap"></script>
+
+  
+<div class="card">
+  <img src="images/bitmoji.jpg" alt="John" style="max-width: 300px">
+  <h2>Computing Student</h2>
+  <p class="title">Blogger "Difficult life of Selina Hayat"</p>
+  <p>De Montfort University</p>
+  <div style="margin: 24px 0;">
+  <i class="fa fa-facebook" aria-hidden="true" ></i>
+  <i class="fa fa-github" aria-hidden="true"></i>
+  <i class="fa fa-twitter" aria-hidden="true"></i>
+  <i class="fa fa-snapchat" aria-hidden="true"></i>
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+ </div>
+ <p><button>Contact</button></p>
+</div>
+
+</main>
+
+
+  <!-- START OF FOOTER -->
+<footer>
+  <br>
+  <i class="fa fa-copyright" aria-hidden="true"></i> COPYRIGHT: UNIVERISTY PROJECT 
+</footer>
+  <!-- END OF FOOTER -->
+  
+  
+
+
+</body>
+</html>
