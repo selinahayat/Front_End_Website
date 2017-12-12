@@ -18,10 +18,10 @@
 
 <ul class="topnav" id="myTopnav">
 
-  <li><a  href="index.html">Home</a></li>
-  <li><a class="visited" href="module.html">Modules</a></li>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="module.html">Modules</a></li>
   <li><a href="#contact">Opportunities</a></li>
-  <li><a href="contact.html">Contact</a></li>
+  <li><a class="visited" href="contact.html">Contact</a></li>
   <li class="icon">
     <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
   </li>
@@ -30,45 +30,23 @@
 
 <h1> The Modules That I am doing are:</h1>
 
-<section class="textbox2">
 
-<ul>
-<h2>First Year</h2>
-  <li>Business technology</li>
-  <li>Database management</li>
-  <li>Information  Systems development</li>
-  <li>visual web devlopement</li>
-  <img id="picture1" src="Images/Picture1.png" alt="picture1"/>
-</ul> 
- 
-</section>
-
-<section class="textbox3">
-<ul>
-<h2>Second Year</h2>
-  <li>Research and ethics</li>
-  <li>Interactive systems and design</li>
-  <li>Project management and development 	</li>
-  <li>Advanced programming</li>
-  <li>Multimedia tech</li>
-  
-</ul>  
-  <img id="picture2" src="Images/Picture2.png" alt="picture1"/>
-</section>
-
-<section class="textbox4">
-<ul>
-<h2>Third Year</h2>
-<li>Multi service networks  1 and 2</li>
-  <li>Front end web development </li>
-  <li>Database management and programming	</li>
-  <li>Privacy and data protection </li>
-  <li>Computing ethics</li>
-   <li>Team development project</li>
-  </ul> 
-    <img id="picture3" src="Images/Picture3.png" alt="picture1"/>
-   
-</section>
+   <form action="/action_page.php">
+    <label for="fname">Name</label>
+    <input type="text" id="fname" name="name" placeholder="Name">
+</br>
+    <label for="lname">Email</label>
+    <input type="text" id="lname" name="email" placeholder="Email">
+</br>
+    <label for="country">Phone</label>
+    <input type="text" id="lname" name="phone" placeholder="Phone">
+</br>
+    <label for="subject">Text</label>
+	</br>
+    <textarea id="subject" name="subject" placeholder="Your Text" style="height:200px"></textarea>
+</br>
+    <input type="submit" value="Send">
+  </form>
 
 
 
