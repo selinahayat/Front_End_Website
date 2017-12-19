@@ -9,10 +9,10 @@
 <h2> wireframes <h2>
 <p> The following screenshots were designed on PowerPoint for my first designs. I then decided to re design my website due to looking dull.</p>
 
-<img src="images/draft1.JPG"> 
-<img src="images/draft2.JPG"> 
-<img src="images/draft3.JPG"> 
-<img src="images/draft4.JPG"> 
+<img src="images/draft1.jpg"> 
+<img src="images/draft2.jpg"> 
+<img src="images/draft3.jpg"> 
+<img src="images/draft4.jpg"> 
 
 <p>
 The following hand drawn wire frames were then re designed and implemented.</p>
