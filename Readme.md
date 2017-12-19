@@ -16,7 +16,7 @@
 
 <p>
 The following hand drawn wire frames were then re designed and implemented.</p>
-<img src="images/wireframe1.JPG"
+<img src="..images/wireframe1.JPG"
 <img src="images/wireframe2.JPG"> 
 <img src="images/wireframe3.JPG"> 
 <img src="images/wireframe4.JPG"> 
