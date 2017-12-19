@@ -9,23 +9,27 @@
 <h2> wireframes <h2>
 <p> The following screenshots were designed on PowerPoint for my first designs. I then decided to re design my website due to looking dull.</p>
 
-<img src="images/draft1.jpg"> 
-<img src="images/draft2.jpg"> 
-<img src="images/draft3.jpg"> 
-<img src="images/draft4.jpg"> 
+<img src="..images/draft1.jpg"> 
+<img src="..images/draft2.jpg"> 
+<img src="..images/draft3.jpg"> 
+<img src="..images/draft4.jpg"> 
 
 <p>
 The following hand drawn wire frames were then re designed and implemented.</p>
+<img src="..images/wireframe1.JPG"> 
+<img src="..images/wireframe2.JPG"> 
+<img src="..images/wireframe3.JPG"> 
+<img src="..images/wireframe4.JPG"> 
 
 <h2> Development Process <h2>
 <p>In the developmental process it was as learning curve with many aspects self -learnt and embedded into my final website also using code from the learnt lab sessions. This consisted of using correct html5 semantic mark-up, CSS and JavaScript. My website consists of all the mentioned languages. The theme of my website was subtle colours where I tried to keep a consistency of fonts and colours. The colour scheme of my website was kept in line with my profile card which was dusty pink, in coordination with my bitmoji (personal character). At the very beginning I began developing the navigation bar and then decided to make the webpage responsive in three different modes: desktop view, mobile view and tablet mode. From the following screenshot you are able to see my finalised website is responsive in the 3 different modes.<p>
 <br>
 <p> Mobile View</p>
-<img src="images/mobile.JPG"> 
+<img src="..images/mobile.jpg"> 
 <p> Tablet View</p>
-<img src="images/tablet.JPG"> 
+<img src="..images/tablet.jpg"> 
 <p> Desktop View</p>
-<img src="images/desktop.JPG"> 
+<img src="..images/desktop.jpg"> 
 
 <h2> Issues solved <h2>
 <p>At the beginning with my early design, the navigation bar was only responsive and the rest of the content was not responsive. Not only this but on desktop view and different screen sizes the content was not fixed and would be out of place. To fix this issue I was advised by my tutor to use percentages instead of pixels. This was still a struggle. So, I decided to re design my pages.<p>
@@ -35,19 +39,19 @@ The following hand drawn wire frames were then re designed and implemented.</p>
 <p> The pages were inserted into the validator and there were a few silly mistakes which I was able to fix quite quickly. Another silly error made was I forgot to add the <!DOCTYPE html> into the html5 file so that was displaying an error. The rest of the code was error free.</p>
 
 <h2> Homepage validation </h2>
-<img src="images/Homepage.JPG"> 
+<img src="..images/Homepage.jpg"> 
 <p> I put the first page through the validator and there were no errors. This was good as I did not have to fix anything.</p>
 
 <h2> Contact Validation</h2>
-<img src="images/Contact.JPG"> 
+<img src="..images/Contact.jpg"> 
 <p> I then validated the second page and once again there were no errors.</p>
 
 <h2> Gallery Validation </h2>
-<img src="images/gallery.JPG"> 
+<img src="..images/gallery.jpg"> 
 <p> Finally, I validated the final page and there was one error which was quite a silly mistake and I was able to rectify this myself.</p>
 
 <h2> Navigation plan </h2>
-<img src="images/gallery.JPG"> 
+<img src="..images/gallery.jpg"> 
 <p> As you can see from the navigation architecture is the basic architecture for my website.</p>
 
 <h2> User Testing </h2>
