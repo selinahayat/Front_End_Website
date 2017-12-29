@@ -22,7 +22,7 @@ The following hand drawn wire frames were then re designed and implemented.</p>
 <img src="images/wireframe4.JPG"> 
 
 <h2> Development Process <h2>
-<p>In the developmental process it was as learning curve with many aspects self -learnt and embedded into my final website also using code from the learnt lab sessions. This consisted of using correct html5 semantic mark-up, CSS and JavaScript. My website consists of all the mentioned languages. The theme of my website was subtle colours where I tried to keep a consistency of fonts and colours. The colour scheme of my website was kept in line with my profile card which was dusty pink, in coordination with my bitmoji (personal character). At the very beginning I began developing the navigation bar and then decided to make the webpage responsive in three different modes: desktop view, mobile view and tablet mode. From the following screenshot you are able to see my finalised website is responsive in the 3 different modes.<p>
+<p>In the developmental process it was as learning curve with many aspects self -learnt and embedded into my final website also using code from the learnt lab sessions. This consisted of using correct html5 semantic mark-up, CSS and JavaScript. My website consists of all the mentioned languages. I began implementing the first design but this was not looking very professional and so implemeneted my second design which was much more professionally designed. The theme of my website was subtle colours where I tried to keep a consistency of fonts and colours. The colour scheme of my website was kept in line with my profile card which was dusty pink, in coordination with my bitmoji (personal character). At the very beginning I began developing the navigation bar and then decided to make the webpage responsive in three different modes: desktop view, mobile view and tablet mode. From the following screenshot you are able to see my finalised website is responsive in the 3 different modes.<p>
 <br>
 <p> Mobile View</p>
 <img src="images/mobile.jpg"> 
@@ -49,6 +49,9 @@ The following hand drawn wire frames were then re designed and implemented.</p>
 <h2> Gallery Validation </h2>
 <img src="images/gallery.jpg"> 
 <p> Finally, I validated the final page and there was one error which was quite a silly mistake and I was able to rectify this myself.</p>
+
+<h2> CSS Validation </h2>
+<p> Finally, I validated the css pass and there was two errors. one was a parse error where i had inserted an extra bracket and i then had fixed this which can be seen on my github repository.</p>
 
 <h2> Navigation plan </h2>
 <img src="images/Navigation.jpg"> 
